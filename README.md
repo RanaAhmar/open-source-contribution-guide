@@ -16,16 +16,6 @@ Comprehensive guide for beginners to make their first open-source contribution.
 git clone https://github.com/RanaAhmar/open-source-contribution-guide.git
 ```
 
----
-
-## 🚀 Connect with Me
-- **Website:** [Stackaura](https://www.stackaura.com/)
-- **Author:** Ahmar Hussain
-- **LinkedIn:** [Ahmar Hussain](https://www.linkedin.com/in/ranaahmar/)
-- **GitHub:** [RanaAhmar](https://github.com/RanaAhmar)
-
-*Built with ❤️ by [Stackaura](https://www.stackaura.com/) - Empowering the next generation of developers.*
-
 
 ---
 
@@ -42,6 +32,9 @@ If you found this tool useful, check out our other high-performance web utilitie
 
 ### 🔗 Stay Connected
 - **Website:** [stackaura.com](https://www.stackaura.com/)
-- **Author:** [Ahmar Hussain](https://github.com/RanaAhmar)
+- **LinkedIn:** [Ahmar Hussain](https://www.linkedin.com/in/ahmar204/)
+- **Facebook:** [Ahmar Hussain](https://www.facebook.com/Ahmar204)
+- **GitHub:** [@RanaAhmar](https://github.com/RanaAhmar)
 
 ---
+
